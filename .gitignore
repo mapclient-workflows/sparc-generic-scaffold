@@ -1,0 +1,10 @@
+*
+!.gitignore
+!.map-client-workflow.rdf
+!OrganScaffold.conf
+!README.rst
+!ThumbnailExport.conf
+!ViewCreation.conf
+!WebGLExport.conf
+!map-client-workflow.proj
+

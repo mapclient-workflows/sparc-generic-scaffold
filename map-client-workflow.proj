@@ -1,0 +1,50 @@
+[General]
+version=0.17.2
+
+[nodes]
+nodelist\1\connections\size=0
+nodelist\1\identifier=ThumbnailExport
+nodelist\1\name=Argon Scene Exporter
+nodelist\1\position=@Variant(\0\0\0\x1a@\x8d@\0\0\0\0\0@zP\0\0\0\0\0)
+nodelist\1\selected=false
+nodelist\1\source_uri=https://github.com/mapclient-plugins/mapclientplugins.argonsceneexporterstep.git
+nodelist\1\unique_identifier=76201140-3c98-11ec-ba50-faffc2364403
+nodelist\2\connections\size=0
+nodelist\2\identifier=WebGLExport
+nodelist\2\name=Argon Scene Exporter
+nodelist\2\position=@Variant(\0\0\0\x1a@\x8c\xe8\0\0\0\0\0@j\0\0\0\0\0\0)
+nodelist\2\selected=false
+nodelist\2\source_uri=https://github.com/mapclient-plugins/mapclientplugins.argonsceneexporterstep.git
+nodelist\2\unique_identifier=8b117bf2-3c98-11ec-ba50-faffc2364403
+nodelist\3\connections\1\connectedFromIndex=0
+nodelist\3\connections\1\connectedTo=3
+nodelist\3\connections\1\connectedToIndex=0
+nodelist\3\connections\1\selected=false
+nodelist\3\connections\size=1
+nodelist\3\identifier=OrganScaffold
+nodelist\3\name=Scaffold Creator
+nodelist\3\position=@Variant(\0\0\0\x1a@q\0\0\0\0\0\0@u0\0\0\0\0\0)
+nodelist\3\selected=false
+nodelist\3\source_uri=https://github.com/ABI-Software/mapclientplugins.scaffoldcreator
+nodelist\3\unique_identifier=f43aa3f4-3dc1-11ec-933a-faffc2364403
+nodelist\4\connections\1\connectedFromIndex=1
+nodelist\4\connections\1\connectedTo=1
+nodelist\4\connections\1\connectedToIndex=0
+nodelist\4\connections\1\selected=false
+nodelist\4\connections\2\connectedFromIndex=1
+nodelist\4\connections\2\connectedTo=0
+nodelist\4\connections\2\connectedToIndex=0
+nodelist\4\connections\2\selected=false
+nodelist\4\connections\size=2
+nodelist\4\identifier=ViewCreation
+nodelist\4\name=Argon Viewer
+nodelist\4\position=@Variant(\0\0\0\x1a@\x83@\0\0\0\0\0@sP\0\0\0\0\0)
+nodelist\4\selected=false
+nodelist\4\source_uri=https://github.com/mapclient-plugins/mapclientplugins.argonviewerstep.git
+nodelist\4\unique_identifier=f99468b2-3dc1-11ec-933a-faffc2364403
+nodelist\size=4
+
+[view]
+rect=@Variant(\0\0\0\x14@$\0\0\0\0\0\0@$\0\0\0\0\0\0@\x94\x4\0\0\0\0\0@\x8c\x90\0\0\0\0\0)
+scale=1
+transform=@Variant(\0\0\0Q?\xf0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0?\xf0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0?\xf0\0\0\0\0\0\0)
