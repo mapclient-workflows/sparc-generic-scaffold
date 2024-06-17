@@ -6,5 +6,7 @@
 !ThumbnailExport.conf
 !ViewCreation.conf
 !WebGLExport.conf
+!VTKExport.conf
+!STLExport.conf
 !map-client-workflow.proj
 
